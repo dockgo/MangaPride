@@ -9,21 +9,6 @@ Tags: black, yellow, blue, purple, light, two-columns, right-sidebar, custom-hea
 Text Domain: MangaPride
 */
 
-/* RESET */
-html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,del, dfn, em, font, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i, center,dl, dt, dd, fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td {margin: 0;padding: 0;outline: 0;font-size: 100%;vertical-align: baseline;background: transparent;height: auto;border-top-width: 0;border-bottom-width: 0;border-left-width: 0;}
-blockquote:before, blockquote:after,q:before, q:after {content: &#8221;;content: none;}
-blockquote, q {quotes: none;}
-:focus {outline: 0;}
-.clear {clear: both;display: block;height: 1px;overflow: hidden;margin: 0;padding: 0;}
-ins {text-decoration: none;}
-del {text-decoration: line-through;}
-table {border-collapse: collapse;border-spacing: 0;}
-body {background-color: #cab894;background-position: center center;}
-
-a:link {font-family: 'PT Serif Caption', serif; font-size: 15px; color:#3094db;}
-a:hover {color: #4d4544;}
-a {color: #3094db;}
-
 /* Make clicks pass-through */
 
 #nprogress {
